@@ -1,3 +1,3 @@
 # special-input-output
-school project which uses an AI algorithm to play a game
+school project which uses voice input to play a game
 
