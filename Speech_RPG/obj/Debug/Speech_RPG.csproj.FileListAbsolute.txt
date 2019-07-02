@@ -1,0 +1,7 @@
+D:\Projects\MediaCollege\input_output\Speech_RPG\bin\Debug\Speech_RPG.exe.config
+D:\Projects\MediaCollege\input_output\Speech_RPG\bin\Debug\Speech_RPG.exe
+D:\Projects\MediaCollege\input_output\Speech_RPG\bin\Debug\Speech_RPG.pdb
+D:\Projects\MediaCollege\input_output\Speech_RPG\obj\Debug\Speech_RPG.csprojAssemblyReference.cache
+D:\Projects\MediaCollege\input_output\Speech_RPG\obj\Debug\Speech_RPG.csproj.CoreCompileInputs.cache
+D:\Projects\MediaCollege\input_output\Speech_RPG\obj\Debug\Speech_RPG.exe
+D:\Projects\MediaCollege\input_output\Speech_RPG\obj\Debug\Speech_RPG.pdb
